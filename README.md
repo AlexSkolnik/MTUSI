@@ -1,1 +1,1 @@
-# MTUSI
+# MTUSI. Машинное обучение. Python 
